@@ -35,7 +35,7 @@ import matplotlib.pyplot as plt
 # ---------------------------------------------------------------
 # 1) SCEGLIAMO QUANTI PUNTI LANCIARE
 # ---------------------------------------------------------------
-NUMERO_PUNTI = 2000
+NUMERO_PUNTI = 20000
 
 # ---------------------------------------------------------------
 # 2) GENERIAMO I PUNTI CASUALI
