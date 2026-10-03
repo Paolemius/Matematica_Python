@@ -7,7 +7,7 @@ NUMERO_MASSIMO = 1000
 
 def e_multiplo_di_7(n):
     """Vero se n è un multiplo di 7 (7, 14, 21, ...)."""
-    return n % 6 == 0
+    return n % 11 == 0
 
 numeri =range(1, NUMERO_MASSIMO + 1)
 numeri_np = np.array(numeri)
